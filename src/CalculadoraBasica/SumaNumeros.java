@@ -5,6 +5,10 @@ public class SumaNumeros {
 	//Cambio realizado desde feature-suma
 	
 	//Comentario después de realizar fusión entre ramas
+	
+	/* 
+	 *  Comentario en Javadoc
+	*/
 	public static void main(String[] args) {
 		//Añade dos numeros en distintas variables para luego mostrar estos mismos y ademas de la suma de ambos
 		Scanner scanner = new Scanner(System.in);
